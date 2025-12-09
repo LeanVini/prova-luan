@@ -1,0 +1,1 @@
+{"error":"Erro ao criar matéria","detalhes":"notNull Violation: Materia.nome cannot be null,\nnotNull Violation: Materia.carga_horaria cannot be null"}
