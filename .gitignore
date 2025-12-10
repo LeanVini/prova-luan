@@ -1,0 +1,9 @@
+﻿# Ignored PROVA artifacts
+PROVA/node_modules/
+PROVA/package-lock.json
+PROVA/yarn.lock
+PROVA/.env
+PROVA/.env.local
+PROVA/.cache
+PROVA/dist
+PROVA/.DS_Store
